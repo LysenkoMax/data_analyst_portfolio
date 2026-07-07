@@ -1,4 +1,4 @@
-# Анализ эффективности продаж и сегментация (Data Sfera)
+# Анализ эффективности продаж и сегментация
 
 ![Dashboard Screenshot](sales_performance_analytics.png)
 
