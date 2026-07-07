@@ -11,7 +11,7 @@
 ## Мой стек технологий
 *   **SQL:** Продвинутые запросы, CTE, оконные функции.
 *   **Python:** Анализ и визуализация данных.
-*   **BI & Инструменты:** Power BI, Looker Studio, Excel (Pivot Tables, VLOOKUP), Google Sheets.
+*   **BI & Инструменты:** Power BI, Power Query, Looker Studio, Excel (Pivot Tables, VLOOKUP), Google Sheets.
 
 ---
 
