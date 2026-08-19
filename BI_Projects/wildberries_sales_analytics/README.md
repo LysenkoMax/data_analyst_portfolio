@@ -1,6 +1,9 @@
 # Комплексный анализ продаж селлера Wildberries
 
-![Dashboard Screenshot](wildberries_sales_analytics.jpg)
+![Dashboard Screenshot](wildberries_sales_analytics1.jpg)
+![Dashboard Screenshot](wildberries_sales_analytics2.jpg)
+![Dashboard Screenshot](wildberries_sales_analytics3.jpg)
+![Dashboard Screenshot](wildberries_sales_analytics4.jpg)
 
 ## Описание проекта
 Интерактивный дашборд в Power BI для комплексного мониторинга коммерческих показателей селлера на маркетплейсе Wildberries. Отчет объединяет финансовые KPI, детализацию по артикулам (SKU), анализ временных пиков спроса и географическое распределение продаж по складам и регионам.
